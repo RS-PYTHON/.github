@@ -18,7 +18,7 @@ For more information on each repository, see its respective README.
 
 | Repository | Description |
 | -- | -- |
-| [rs-demo](https://github.com/RS-PYTHON/rs-demo) | Collection of [Jupyter](https://jupyter.org/) notebook showcasing the latest features of the system |
+| [rs-demo](https://github.com/RS-PYTHON/rs-demo) | Collection of [Jupyter](https://jupyter.org/) notebooks showcasing the latest features of the system |
 | [rs-documentation](https://github.com/RS-PYTHON/rs-documentation) | This repository gathers and generates the [online documentation](https://home.rs-python.eu/rs-documentation/) |
 | [RS-PYTHON.github.io](https://github.com/RS-PYTHON/RS-PYTHON.github.io) | This repository contains the template and data to generate rs-python [landing page](https://home.rs-python.eu/) website |
 
