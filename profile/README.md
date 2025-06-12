@@ -5,7 +5,7 @@ The Copernicus Space Component *Reference System* is an open-source software sol
 ## How to find what you need
 
 This organization has several repositories of different types.
-Here, we categorize each repository as follows:
+Here, we categorise each repository as follows:
 
 - 🧙 **Documentation repositories** to learn about the project and play with Jupyter notebooks
 - 👩‍🍳 **STAC extensions** to extend [STAC](https://stacspec.org) capabilities
