@@ -40,6 +40,7 @@ For more information on each repository, see its respective README.
 | [rs-dpr-service](https://github.com/RS-PYTHON/rs-dpr-service) | Service that allows to retrieve [tasktables](https://cpm.pages.eopf.copernicus.eu/eopf-cpm/main/processor-orchestration-guide/tasktables.html) and [trigger DPR/EOPF processors](https://cpm.pages.eopf.copernicus.eu/eopf-cpm/main/processor-orchestration-guide/triggering-usage.html) in a Dask cluster |
 | [pygeofilter](https://github.com/RS-PYTHON/pygeofilter) | Fork of pygeofilter to get [CQL2](https://docs.ogc.org/is/21-065r2/21-065r2.html) fixes without waiting for a new upstream release |
 | [operational-services](https://github.com/RS-PYTHON/operational-services) | Operational services required for Reference System |
+| [testmeans](https://github.com/RS-PYTHON/rs-testmeans) | Test means and mockups to valide Reference System CSC interfaces |
 
 ### 🧑‍💻 Infrastructure repositories
 
