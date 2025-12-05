@@ -52,3 +52,14 @@ For more information on each repository, see its respective README.
 | [rs-server-deployment](https://github.com/RS-PYTHON/rs-server-deployment) | ![CI](https://github.com/RS-PYTHON/rs-server-deployment/actions/workflows/test-deployment.yml/badge.svg) | A set of components to deploy rs-server services on top of core infrastructure |
 | [rs-workflow-env](https://github.com/RS-PYTHON/rs-workflow-env) | ![CI](https://github.com/RS-PYTHON/rs-workflow-env/actions/workflows/test-deployment.yml/badge.svg) | A set of components to support processing orchestration on top of core infrastructure |
 | [rs-workflow-deployment](https://github.com/RS-PYTHON/rs-workflow-deployment) | ![CI](https://github.com/RS-PYTHON/rs-workflow-deployment/actions/workflows/test-deployment.yml/badge.svg) | A set of components to deploy rs-client prefect-flow from ansible on top of core infrastructure |
+
+## Licensing
+
+
+The code in this project is licensed under Apache License 2.0.
+
+---
+
+![](banner_logo.jpg)
+
+This project is funded by the EU and ESA.
