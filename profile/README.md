@@ -50,4 +50,4 @@ For more information on each repository, see its respective README.
 | [rs-infra-monitoring](https://github.com/RS-PYTHON/rs-infra-monitoring) | A set of monitoring components to deploy on top of core infrastructure |
 | [rs-server-deployment](https://github.com/RS-PYTHON/rs-server-deployment) | A set of components to deploy rs-server services on top of core infrastructure |
 | [rs-workflow-env](https://github.com/RS-PYTHON/rs-workflow-env) | A set of components to support processing orchestration on top of core infrastructure |
-| [rs-workflow-env](https://github.com/RS-PYTHON/rs-workflow-deployment) | A set of components to deploy rs-client prefect-flow from ansible on top of core infrastructure |
+| [rs-workflow-deployment](https://github.com/RS-PYTHON/rs-workflow-deployment) | A set of components to deploy rs-client prefect-flow from ansible on top of core infrastructure |
