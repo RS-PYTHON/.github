@@ -26,7 +26,6 @@ For more information on each repository, see its respective README.
 
 | Repository | Status | Description |
 | -- | -- | -- |
-| [auxip-stac-extension](https://github.com/RS-PYTHON/auxip-stac-extension) | ![CI](https://github.com/RS-PYTHON/auxip-stac-extension/actions/workflows/test.yaml/badge.svg?branch=main) | Allows to describe Copernicus [Auxiliary Data](https://sentiwiki.copernicus.eu/web/copernicus-operations#CopernicusOperations-AuxiliaryDataGathering) files as STAC items |
 | [cadip-stac-extension](https://github.com/RS-PYTHON/cadip-stac-extension) | ![CI](https://github.com/RS-PYTHON/cadip-stac-extension/actions/workflows/test.yaml/badge.svg?branch=main) | Allows to describe Copernicus [CADIP sessions](https://sentiwiki.copernicus.eu/web/copernicus-operations#CopernicusOperations-X-BandAcquisition) from Acquisition Ground Stations as STAC items |
 | [ownership-stac-extension](https://github.com/RS-PYTHON/ownership-stac-extension) | ![CI](https://github.com/RS-PYTHON/ownership-stac-extension/actions/workflows/test.yaml/badge.svg?branch=main) | Allows to express ownership of STAC collections and items |
 | [download-stac-api-extension](https://github.com/RS-PYTHON/download-stac-api-extension) | ![CI](https://github.com/RS-PYTHON/download-stac-api-extension/actions/workflows/main.yml/badge.svg?branch=main) | STAC API Extension that adds a dedicated endpoint to download an asset |
