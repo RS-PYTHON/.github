@@ -39,7 +39,7 @@ For more information on each repository, see its respective README.
 | [rs-dpr-service](https://github.com/RS-PYTHON/rs-dpr-service) | ![CI](https://github.com/RS-PYTHON/rs-dpr-service/actions/workflows/publish-binaries.yml/badge.svg?branch=develop) | Service that allows to retrieve [tasktables](https://cpm.pages.eopf.copernicus.eu/eopf-cpm/main/processor-orchestration-guide/tasktables.html) and [trigger DPR/EOPF processors](https://cpm.pages.eopf.copernicus.eu/eopf-cpm/main/processor-orchestration-guide/triggering-usage.html) in a Dask cluster |
 | [opentelemetry-instrumentation-eopf](https://github.com/RS-PYTHON/opentelemetry-instrumentation-eopf) | ![CI](https://github.com/RS-PYTHON/opentelemetry-instrumentation-eopf/actions/workflows/test.yml/badge.svg?branch=main) | OpenTelemetry instrumentation for EOPF |
 | [pygeofilter](https://github.com/RS-PYTHON/pygeofilter) | ![CI](https://github.com/RS-PYTHON/pygeofilter/actions/workflows/main.yml/badge.svg?branch=rspy) | Fork of pygeofilter to get [CQL2](https://docs.ogc.org/is/21-065r2/21-065r2.html) fixes without waiting for a new upstream release |
-| [testmeans](https://github.com/RS-PYTHON/rs-testmeans) | ![CI](https://github.com/RS-PYTHON/rs-testmeans/actions/workflows/publish-docker.yml/badge.svg?branch=develop) | Test means and mockups to valide Reference System CSC interfaces |
+| [rs-testmeans](https://github.com/RS-PYTHON/rs-testmeans) | ![CI](https://github.com/RS-PYTHON/rs-testmeans/actions/workflows/publish-docker.yml/badge.svg?branch=develop) | Test means and mockups to valide Reference System CSC interfaces |
 
 ### 🧑‍💻 Infrastructure repositories
 
@@ -51,6 +51,13 @@ For more information on each repository, see its respective README.
 | [rs-server-deployment](https://github.com/RS-PYTHON/rs-server-deployment) | ![CI](https://github.com/RS-PYTHON/rs-server-deployment/actions/workflows/test-deployment.yml/badge.svg?branch=develop) | A set of components to deploy rs-server services on top of core infrastructure |
 | [rs-workflow-env](https://github.com/RS-PYTHON/rs-workflow-env) | ![CI](https://github.com/RS-PYTHON/rs-workflow-env/actions/workflows/test-deployment.yml/badge.svg?branch=develop) | A set of components to support processing orchestration on top of core infrastructure |
 | [rs-workflow-deployment](https://github.com/RS-PYTHON/rs-workflow-deployment) | ![CI](https://github.com/RS-PYTHON/rs-workflow-deployment/actions/workflows/test-deployment.yml/badge.svg?branch=develop) | A set of components to deploy rs-client prefect-flow from ansible on top of core infrastructure |
+
+### 🛠 Tool repositories
+
+| Repository | Status | Description |
+| -- | -- | -- |
+| [actions](https://github.com/RS-PYTHON/actions) | ![CI](https://github.com/RS-PYTHON/actions/actions/workflows/check-code-quality.yml/badge.svg?branch=develop) | This repository provides reusable GitHub workflows and composite actions for all RS-PYTHON repositories. |
+
 
 ## Licensing
 
