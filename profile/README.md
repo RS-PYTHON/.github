@@ -39,7 +39,7 @@ For more information on each repository, see its respective README.
 | [rs-dpr-service](https://github.com/RS-PYTHON/rs-dpr-service) | ![CI](https://github.com/RS-PYTHON/rs-dpr-service/actions/workflows/publish-binaries.yml/badge.svg?branch=develop) | Service that allows to retrieve [tasktables](https://cpm.pages.eopf.copernicus.eu/eopf-cpm/main/processor-orchestration-guide/tasktables.html) and [trigger DPR/EOPF processors](https://cpm.pages.eopf.copernicus.eu/eopf-cpm/main/processor-orchestration-guide/triggering-usage.html) in a Dask cluster |
 | [opentelemetry-instrumentation-eopf](https://github.com/RS-PYTHON/opentelemetry-instrumentation-eopf) | ![CI](https://github.com/RS-PYTHON/opentelemetry-instrumentation-eopf/actions/workflows/test.yml/badge.svg?branch=main) | OpenTelemetry instrumentation for EOPF |
 | [pygeofilter](https://github.com/RS-PYTHON/pygeofilter) | ![CI](https://github.com/RS-PYTHON/pygeofilter/actions/workflows/main.yml/badge.svg?branch=rspy) | Fork of pygeofilter to get [CQL2](https://docs.ogc.org/is/21-065r2/21-065r2.html) fixes without waiting for a new upstream release |
-| [rs-testmeans](https://github.com/RS-PYTHON/rs-testmeans) | ![CI](https://github.com/RS-PYTHON/rs-testmeans/actions/workflows/publish-docker.yml/badge.svg?branch=develop) | Test means and mockups to valide Reference System CSC interfaces |
+| [rs-testmeans](https://github.com/RS-PYTHON/rs-testmeans) | ![CI](https://github.com/RS-PYTHON/rs-testmeans/actions/workflows/publish-binaries.yml/badge.svg?branch=develop) | Test means and mockups to valide Reference System CSC interfaces |
 
 ### 🧑‍💻 Infrastructure repositories
 
